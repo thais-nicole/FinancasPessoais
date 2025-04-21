@@ -1,6 +1,6 @@
-# Financas Pessoais
+# Gestão de Finanças Pessoais
 
-Como você organiza suas finanças pessoais?
+**Como você organiza suas finanças pessoais?**
 
 Estive pensando em como unir um problema cotidiano a uma solução usando Google Sheets. Foi assim que surgiu a ideia deste projeto voltado para gestão financeira pessoal, um tema importante mas muitas vezes negligenciado.
 
@@ -14,7 +14,7 @@ Outra com um dashboard visual para análise dos resultados.
 
 Usei apenas funções básicas como SOMASES, formatação condicional e gráficos, é um projeto simples. A ideia é mostrar que, com um pouco de organização e visualização clara dos dados, é possível transformar a forma como lidamos com o nosso dinheiro.
 
-Aviso: Estes são dados fictícios gerados por IA.
+**Aviso:** Estes são dados fictícios gerados por IA.
 
 ![Projeto de Gestão Financeira Pessoal](visualizacoes/Dashboard.png)
 
